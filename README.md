@@ -47,7 +47,7 @@ Sign the text using DSA (digital signature).
 Verify the signature using DSA.
 ```
 ## Example
-
+![Project picture](crypt.jpg)
 # Cryptographic Algorithms: RSA, DSA, and AES
 
 ## 1. RSA (Rivest–Shamir–Adleman)
